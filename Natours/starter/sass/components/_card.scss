@@ -20,7 +20,7 @@ $perspectiveDistance: 150rem;
     width: 100%;
     backface-visibility: hidden;
 
-    border-radius: 0.3rem;
+    border-radius: $card-border-radius;
     box-shadow: 0 1.5rem 4rem rgba($color-black, 0.15);
 
     &--front {
